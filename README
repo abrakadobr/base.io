@@ -1,0 +1,9 @@
+# Base.io
+
+Simple template for fast start.
+Use npm for dependency install:
+
+```bash
+npm install
+node server.js
+```
